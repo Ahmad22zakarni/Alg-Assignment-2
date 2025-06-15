@@ -1,0 +1,6 @@
+﻿  Alg-Assignment#2.cpp
+C:\Users\QME\source\repos\Alg-Assignment#2\Alg-Assignment#2\Alg-Assignment#2.cpp(13,11): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\QME\source\repos\Alg-Assignment#2\Alg-Assignment#2\Alg-Assignment#2.cpp(42,11): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\QME\source\repos\Alg-Assignment#2\Alg-Assignment#2\Alg-Assignment#2.cpp(67,11): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\QME\source\repos\Alg-Assignment#2\Alg-Assignment#2\Alg-Assignment#2.cpp(184,46): warning C4101: 'e': unreferenced local variable
+  Alg-Assignment#2.vcxproj -> C:\Users\QME\source\repos\Alg-Assignment#2\x64\Debug\Alg-Assignment#2.exe

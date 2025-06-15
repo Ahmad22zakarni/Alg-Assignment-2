@@ -1,0 +1,10 @@
+﻿  Alg-Assignment#2.cpp
+C:\Users\QME\source\repos\Alg-Assignment#2\Alg-Assignment#2\Alg-Assignment#2.cpp(11,11): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\QME\source\repos\Alg-Assignment#2\Alg-Assignment#2\Alg-Assignment#2.cpp(30,11): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\QME\source\repos\Alg-Assignment#2\Alg-Assignment#2\Alg-Assignment#2.cpp(50,11): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\QME\source\repos\Alg-Assignment#2\Alg-Assignment#2\Alg-Assignment#2.cpp(131,41): warning C4101: 'e': unreferenced local variable
+  Generating code
+  Previous IPDB not found, fall back to full compilation.
+  All 366 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  Alg-Assignment#2.vcxproj -> C:\Users\QME\source\repos\Alg-Assignment#2\x64\Release\Alg-Assignment#2.exe
